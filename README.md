@@ -1,5 +1,5 @@
-## 👋 Hi, I'm Hasiru Amarasooriya!
-### 🚀 Full-Stack Developer | Tech Enthusiast | Content Creator
+## 👋 Hi, I'm Hasiru Dulanjaya Amarasooriya!
+### 🚀 Full-Stack Developer 
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer from Sri Lanka with expertise in modern web technologies. I love building scalable applications and continuously learning new technologies to enhance my skill set.
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer from Sri Lan
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasiru-amarasooriyaaaa565221)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/hasiru.dulanjaya.amarasooriya)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://fb.com/hasiru.dulanjaya.amarasooriya](https://www.facebook.com/hasiru.amarasena/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hasiru_amarasooriya)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hasiruamarasoor1)
 
