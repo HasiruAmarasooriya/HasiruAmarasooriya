@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600"/>
+</p>
+
 ## 👋 Hi, I'm Hasiru Dulanjaya Amarasooriya!
 ### 🚀 Full-Stack Developer 
 
@@ -6,6 +10,8 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer from Sri Lan
 ---
 
 ### 🔥 About Me
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🌱 Currently learning **React.js, MERN, Next.js, Vue, Java**
 - 💻 Check out my projects: [My Portfolio](https://my-portfolio-phi-vert-77.vercel.app/)
 - 🎥 I create YouTube videos on tech & development
