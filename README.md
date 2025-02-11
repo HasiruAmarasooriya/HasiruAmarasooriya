@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer from Sri Lan
 ---
 
 ### 🔥 About Me
+
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 Currently learning **React.js, MERN, Next.js, Vue, Java**
@@ -20,10 +21,11 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer from Sri Lan
 ---
 
 ### 🌟 Featured Projects
-#### 🚀 MovieMeld (Film Streaming & Download Website)
-A modern movie streaming and downloading platform with a sleek UI.
-![MovieMeld](https://your-image-link.com/moviemeld.png)
-🔗 [Live Demo](https://moviemeld.vercel.app/) | 📌 [GitHub Repo](https://github.com/yourusername/moviemeld)
+
+#### 🚀 Legend Tour (Golf Sport Club Website)
+Developed a comprehensive and interactive website for the Legend-Tour Golf Sports Club, offering a seamless user experience across various sections, including the homepage, event schedule, player rankings, playing experiences, ticket purchasing, news updates, and about us..
+
+🔗 [Live Demo](https://legend-tour-nine.vercel.app/) | 📌 [GitHub Repo](https://github.com/HasiruAmarasooriya/LegendTour)
 
 #### 🛒 E-Commerce Store (Electronics & Kitchen)
 A responsive e-commerce platform with an intuitive user experience.
