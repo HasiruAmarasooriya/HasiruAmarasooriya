@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer from Sri Lan
 ---
 
 ### 🔥 About Me
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 Currently learning **React.js, MERN, Next.js, Vue, Java**
 - 💻 Check out my projects: [My Portfolio](https://my-portfolio-phi-vert-77.vercel.app/)
