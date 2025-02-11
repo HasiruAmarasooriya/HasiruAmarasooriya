@@ -27,15 +27,15 @@ Developed a comprehensive and interactive website for the Legend-Tour Golf Sport
 
 🔗 [Live Demo](https://legend-tour-nine.vercel.app/) | 📌 [GitHub Repo](https://github.com/HasiruAmarasooriya/LegendTour)
 
-#### 🛒 E-Commerce Store (Electronics & Kitchen)
-A responsive e-commerce platform with an intuitive user experience.
-![E-Commerce Store](https://your-image-link.com/ecommerce.png)
-🔗 [Live Demo](https://ecommerce.vercel.app/) | 📌 [GitHub Repo](https://github.com/yourusername/ecommerce)
-
-#### 📦 Bakery Order Management System
+#### 🛒 Bakery Order Management System 
 A web app for managing bakery orders, deliveries, and payments.
-![Bakery Order System](https://your-image-link.com/bakery.png)
-🔗 [Live Demo](https://bakery-orders.vercel.app/) | 📌 [GitHub Repo](https://github.com/yourusername/bakery-orders)
+
+🔗 [Live Demo](https://ast-frontend-react.vercel.app/dashboard/analytics)
+
+#### 📦 LK-Model-Zone-Photography
+Developed a dynamic and visually appealing photography website, featuring multiple pages including Home, Photographers, Gallery, About Us, and Contact Us
+
+🔗 [Live Demo](https://lk-model-zone-photography.vercel.app/) | 📌 [GitHub Repo](https://github.com/HasiruAmarasooriya/LK-Model-Zone-Photography)
 
 ---
 
