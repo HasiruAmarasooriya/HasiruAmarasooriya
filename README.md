@@ -13,9 +13,27 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer from Sri Lan
 
 ---
 
+### 🌟 Featured Projects
+#### 🚀 MovieMeld (Film Streaming & Download Website)
+A modern movie streaming and downloading platform with a sleek UI.
+![MovieMeld](https://your-image-link.com/moviemeld.png)
+🔗 [Live Demo](https://moviemeld.vercel.app/) | 📌 [GitHub Repo](https://github.com/yourusername/moviemeld)
+
+#### 🛒 E-Commerce Store (Electronics & Kitchen)
+A responsive e-commerce platform with an intuitive user experience.
+![E-Commerce Store](https://your-image-link.com/ecommerce.png)
+🔗 [Live Demo](https://ecommerce.vercel.app/) | 📌 [GitHub Repo](https://github.com/yourusername/ecommerce)
+
+#### 📦 Bakery Order Management System
+A web app for managing bakery orders, deliveries, and payments.
+![Bakery Order System](https://your-image-link.com/bakery.png)
+🔗 [Live Demo](https://bakery-orders.vercel.app/) | 📌 [GitHub Repo](https://github.com/yourusername/bakery-orders)
+
+---
+
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasiru-amarasooriyaaaa565221)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://fb.com/hasiru.dulanjaya.amarasooriya](https://www.facebook.com/hasiru.amarasena/))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hasiru.amarasena/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hasiru_amarasooriya)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hasiruamarasoor1)
 
